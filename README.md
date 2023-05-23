@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.9+
 - Python Libraries: `openpyxl`, `selenium`
 - Chrome browser
 - [ChromeDriver](https://sites.google.com/chromium.org/driver/)
@@ -96,4 +96,4 @@ If you're getting an `OSError: [Errno 8] Exec format error`, it means that the C
 
 ## License
 
-This project is licensed under the terms of the [MIT license](license.md).
+This project is licensed under the terms of the [MIT license](License.md).
